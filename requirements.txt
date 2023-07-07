@@ -5,3 +5,4 @@ SpeechRecognition
 gTTS
 
 openai
+python-dotenv
